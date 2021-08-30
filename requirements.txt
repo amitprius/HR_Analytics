@@ -26,3 +26,5 @@ urllib3==1.26.5
 Werkzeug==2.0.1
 wincertstore==0.2
 zipp==3.4.1
+matplotlib==3.3.2
+matplotlib-inline==0.1.2
