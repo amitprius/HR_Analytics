@@ -1,5 +1,4 @@
 streamlit==0.87.0
-sweetviz==1.0b6certifi==2021.5.30
 chardet==4.0.0
 click==8.0.1
 colorama==0.4.4
