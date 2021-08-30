@@ -90,6 +90,6 @@ if st.button("Submit"):
         )
         df1.plot(x="features", y=["performance"])
         st.pyplot() 
-        if(satisfaction_level <= 0.09 and number_project <= 3.0):
+        if(satisfaction_level <= 0.5 and number_project <= 3.0):
             st.write("Performance Update: Increase the number of the projects of the Employee")
        
